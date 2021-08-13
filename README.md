@@ -1,2 +1,3 @@
 # newPythonProject
-14.08.2021 
+
+First Day (14.08.2021)>  
